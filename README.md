@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Studying Computer Science at Federal University of Pernambuco.
 - 💻 &nbsp; Front-End Developer and Web Designer
-- ✏ &nbsp; Product Owner and Manager in Ustore <a href="ustore.com.br">ustore.com.br</a>.
+- ✏ &nbsp; Product Owner and Manager more about me in <a href="lucastavora.com.br">lucastavora.com.br</a>.
 - 📚 &nbsp; Learning more about Product Discovery and Dual Track Projects.
 
 <h3>🛠 Tech Stack</h3>
