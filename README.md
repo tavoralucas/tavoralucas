@@ -17,8 +17,8 @@
 <br/>
 
 <a href="https://github.com/tavoralucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramomjcs&theme=merko&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramomjcs&theme=merko&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tavoralucas&theme=merko&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavoralucas&theme=merko&layout=compact" />
 </a>
 
 <h3> 🤝🏻 Connect with Me </h3>
