@@ -24,7 +24,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://lucastavora.com.br/eu"><img alt="Website" src=""></a>
+<a href="https://lucastavora.com.br/eu"><img alt="Website" src="https://img.shields.io/badge/Website-lucastavora.com.br-black?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/tavoralucas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Tavora%20-black?style=flat-square&logo=linkedin"></a>
 <a href="mailto:contato@lucastavora.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-contato@lucastavora.com.br-black?style=flat-square&logo=gmail"></a>
 </p>
