@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at Federal University of Pernambuco.
+- 🎓 &nbsp; Studying Information Systems at Federal University of Pernambuco.
 - 💻 &nbsp; Front-End Developer and Web Designer
-- ✏ &nbsp; Product Owner and Manager more about me in <a href="lucastavora.com.br">lucastavora.com.br</a>.
+- ✏ &nbsp; Product Owner and Manager more about me in <a href="www.linkedin.com/in/tavoralucas/)">linkedin</a>.
 - 📚 &nbsp; Learning more about Product Discovery and Dual Track Projects.
 
 <h3>🛠 Tech Stack</h3>
